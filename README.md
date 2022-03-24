@@ -23,4 +23,4 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='instagram.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='instagram.gif' title='Video Walkthrough' width='250' height = '500' alt='Video Walkthrough' />
